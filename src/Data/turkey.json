@@ -1,0 +1,731 @@
+[
+    {
+      "id": 1,
+      "city": "Adana",
+      "lat": "37.0000",
+      "lng": "35.3213",
+      "population": "2183167",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 2,
+      "city": "Adıyaman",
+      "lat": "37.7648",
+      "lng": "38.2786",
+      "population": "602774",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 3,
+      "city": "Afyonkarahisar",
+      "lat": "38.7507",
+      "lng": "30.5567",
+      "population": "709015",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 4,
+      "city": "Ağrı",
+      "lat": "39.7191",
+      "lng": "43.0503",
+      "population": "547210",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 5,
+      "city": "Amasya",
+      "lat": "40.6499",
+      "lng": "35.8353",
+      "population": "322167",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 6,
+      "city": "Ankara",
+      "lat": "39.9208",
+      "lng": "32.8541",
+      "population": "5270575",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 7,
+      "city": "Antalya",
+      "lat": "36.8841",
+      "lng": "30.7056",
+      "population": "2288456",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 8,
+      "city": "Artvin",
+      "lat": "41.1828",
+      "lng": "41.8183",
+      "population": "168370",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 9,
+      "city": "Aydın",
+      "lat": "37.8560",
+      "lng": "27.8416",
+      "population": "1053506",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 10,
+      "city": "Balıkesir",
+      "lat": "39.6484",
+      "lng": "27.8826",
+      "population": "1186688",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 11,
+      "city": "Bilecik",
+      "lat": "40.0567",
+      "lng": "30.0665",
+      "population": "212361",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 12,
+      "city": "Bingöl",
+      "lat": "39.0626",
+      "lng": "40.7696",
+      "population": "267184",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 13,
+      "city": "Bitlis",
+      "lat": "38.3938",
+      "lng": "42.1232",
+      "population": "267184",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 14,
+      "city": "Bolu",
+      "lat": "40.5760",
+      "lng": "31.5788",
+      "population": "291095",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 15,
+      "city": "Burdur",
+      "lat": "37.4613",
+      "lng": "30.0665",
+      "population": "258339",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 16,
+      "city": "Bursa",
+      "lat": "40.2669",
+      "lng": "29.0634",
+      "population": "2842547",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 17,
+      "city": "Çanakkale",
+      "lat": "40.1553",
+      "lng": "26.4142",
+      "population": "513341",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 18,
+      "city": "Çankırı",
+      "lat": "40.6013",
+      "lng": "33.6134",
+      "population": "180945",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 19,
+      "city": "Çorum",
+      "lat": "40.5506",
+      "lng": "34.9556",
+      "population": "525180",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 20,
+      "city": "Denizli",
+      "lat": "37.7765",
+      "lng": "29.0864",
+      "population": "993442",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 21,
+      "city": "Diyarbakır",
+      "lat": "37.9144",
+      "lng": "40.2306",
+      "population": "1654196",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 22,
+      "city": "Edirne",
+      "lat": "41.6818",
+      "lng": "26.5623",
+      "population": "402537",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 23,
+      "city": "Elâzığ",
+      "lat": "38.6810",
+      "lng": "39.2264",
+      "population": 574304,
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 24,
+      "city": "Erzincan",
+      "lat": "39.7500",
+      "lng": "39.5000",
+      "population": "222918",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 25,
+      "city": "Erzurum",
+      "lat": "39.9000",
+      "lng": "41.2700",
+      "population": "762321",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 26,
+      "city": "Eskişehir",
+      "lat": "39.7767",
+      "lng": "30.5206",
+      "population": "826716",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 27,
+      "city": "Gaziantep",
+      "lat": "37.0662",
+      "lng": "37.3833",
+      "population": "1931836",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 28,
+      "city": "Giresun",
+      "lat": "40.9128",
+      "lng": "38.3895",
+      "population": "426686",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 29,
+      "city": "Gümüşhane",
+      "lat": "40.4386",
+      "lng": "39.5086",
+      "population": "151449",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 30,
+      "city": "Hakkâri",
+      "lat": "37.5833",
+      "lng": "43.7333",
+      "population": "278775",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 31,
+      "city": "Hatay",
+      "lat": "36.4018",
+      "lng": "36.3498",
+      "population": "1533507",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 32,
+      "city": "Isparta",
+      "lat": "37.7648",
+      "lng": "30.5566",
+      "population": "421766",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 33,
+      "city": "Mersin",
+      "lat": "36.8000",
+      "lng": "34.6333",
+      "population": "1745221",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 34,
+      "city": "İstanbul",
+      "lat": "41.0053",
+      "lng": "28.9770",
+      "population": "14657434",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 35,
+      "city": "İzmir",
+      "lat": "38.4189",
+      "lng": "27.1287",
+      "population": "4168415",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 36,
+      "city": "Kars",
+      "lat": "40.6167",
+      "lng": "43.1000",
+      "population": "292660",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 37,
+      "city": "Kastamonu",
+      "lat": "41.3887",
+      "lng": "33.7827",
+      "population": "372633",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 38,
+      "city": "Kayseri",
+      "lat": "38.7312",
+      "lng": "35.4787",
+      "population": "1341056",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 39,
+      "city": "Kırklareli",
+      "lat": "41.7333",
+      "lng": "27.2167",
+      "population": "346973",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 40,
+      "city": "Kırşehir",
+      "lat": "39.1425",
+      "lng": "34.1709",
+      "population": "225562",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 41,
+      "city": "Kocaeli",
+      "lat": "40.8533",
+      "lng": "29.8815",
+      "population": "1780055",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 42,
+      "city": "Konya",
+      "lat": "37.8667",
+      "lng": "32.4833",
+      "population": "2130544",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 43,
+      "city": "Kütahya",
+      "lat": "39.4167",
+      "lng": "29.9833",
+      "population": "571463",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 44,
+      "city": "Malatya",
+      "lat": "38.3552",
+      "lng": "38.3095",
+      "population": "772904",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 45,
+      "city": "Manisa",
+      "lat": "38.6191",
+      "lng": "27.4289",
+      "population": "1380366",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 46,
+      "city": "Kahramanmaraş",
+      "lat": "37.5858",
+      "lng": "36.9371",
+      "population": "1096610",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 47,
+      "city": "Mardin",
+      "lat": "37.3212",
+      "lng": "40.7245",
+      "population": "796591",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 48,
+      "city": "Muğla",
+      "lat": "37.2153",
+      "lng": "28.3636",
+      "population": "908877",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 49,
+      "city": "Muş",
+      "lat": "38.9462",
+      "lng": "41.7539",
+      "population": "408728",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 50,
+      "city": "Nevşehir",
+      "lat": "38.6939",
+      "lng": "34.6857",
+      "population": "286767",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 51,
+      "city": "Niğde",
+      "lat": "37.9667",
+      "lng": "34.6833",
+      "population": "346114",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 52,
+      "city": "Ordu",
+      "lat": "40.9839",
+      "lng": "37.8764",
+      "population": "728949",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 53,
+      "city": "Rize",
+      "lat": "41.0201",
+      "lng": "40.5234",
+      "population": "328979",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 54,
+      "city": "Sakarya",
+      "lat": "40.6940",
+      "lng": "30.4358",
+      "population": "953181",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 55,
+      "city": "Samsun",
+      "lat": "41.2928",
+      "lng": "36.3313",
+      "population": "1279884",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 56,
+      "city": "Siirt",
+      "lat": "37.9333",
+      "lng": "41.9500",
+      "population": "320351",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 57,
+      "city": "Sinop",
+      "lat": "42.0231",
+      "lng": "35.1531",
+      "population": "204133",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 58,
+      "city": "Sivas",
+      "lat": "39.7477",
+      "lng": "37.0179",
+      "population": "618617",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 59,
+      "city": "Tekirdağ",
+      "lat": "40.9833",
+      "lng": "27.5167",
+      "population": "937910",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 60,
+      "city": "Tokat",
+      "lat": "40.3167",
+      "lng": "36.5500",
+      "population": "593990",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 61,
+      "city": "Trabzon",
+      "lat": "41.0015",
+      "lng": "39.7178",
+      "population": "768417",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 62,
+      "city": "Tunceli",
+      "lat": "39.3074",
+      "lng": "39.4388",
+      "population": "86076",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 63,
+      "city": "Şanlıurfa",
+      "lat": "37.1591",
+      "lng": "38.7969",
+      "population": "1892320",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 64,
+      "city": "Uşak",
+      "lat": "38.6823",
+      "lng": "29.4082",
+      "population": "353048",
+      "admin_name": "Ege",
+      "country": "Turkey"
+    },
+    {
+      "id": 65,
+      "city": "Van",
+      "lat": "38.4891",
+      "lng": "43.4089",
+      "population": "1096397",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 66,
+      "city": "Yozgat",
+      "lat": "39.8181",
+      "lng": "34.8147",
+      "population": "419440",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 67,
+      "city": "Zonguldak",
+      "lat": "41.4564",
+      "lng": "31.7987",
+      "population": "595907",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 68,
+      "city": "Aksaray",
+      "lat": "38.3687",
+      "lng": "34.0370",
+      "population": "386514",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 69,
+      "city": "Bayburt",
+      "lat": "40.2552",
+      "lng": "40.2249",
+      "population": "78550",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 70,
+      "city": "Karaman",
+      "lat": "37.1759",
+      "lng": "33.2287",
+      "population": "242196",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 71,
+      "city": "Kırıkkale",
+      "lat": "39.8468",
+      "lng": "33.5153",
+      "population": "270271",
+      "admin_name": "İç Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 72,
+      "city": "Batman",
+      "lat": "37.8812",
+      "lng": "41.1351",
+      "population": "566633",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 73,
+      "city": "Şırnak",
+      "lat": "37.4187",
+      "lng": "42.4918",
+      "population": "490184",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 74,
+      "city": "Bartın",
+      "lat": "41.5811",
+      "lng": "32.4610",
+      "population": "190708",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 75,
+      "city": "Ardahan",
+      "lat": "41.1105",
+      "lng": "42.7022",
+      "population": "99265",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 76,
+      "city": "Iğdır",
+      "lat": "39.8880",
+      "lng": "44.0048",
+      "population": "192435",
+      "admin_name": "Doğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 77,
+      "city": "Yalova",
+      "lat": "40.6500",
+      "lng": "29.2667",
+      "population": "233009",
+      "admin_name": "Marmara",
+      "country": "Turkey"
+    },
+    {
+      "id": 78,
+      "city": "Karabük",
+      "lat": "41.2061",
+      "lng": "32.6204",
+      "population": "236978",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 79,
+      "city": "Kilis",
+      "lat": "36.7184",
+      "lng": "37.1212",
+      "population": "130655",
+      "admin_name": "Güneydoğu Anadolu",
+      "country": "Turkey"
+    },
+    {
+      "id": 80,
+      "city": "Osmaniye",
+      "lat": "37.2130",
+      "lng": "36.1763",
+      "population": "512873",
+      "admin_name": "Akdeniz",
+      "country": "Turkey"
+    },
+    {
+      "id": 81,
+      "city": "Düzce",
+      "lat": "40.8438",
+      "lng": "31.1565",
+      "population": "360388",
+      "admin_name": "Karadeniz",
+      "country": "Turkey"
+    }
+  ]
